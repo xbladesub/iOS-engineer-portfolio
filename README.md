@@ -1,5 +1,22 @@
 <a href="https://drive.google.com/file/d/1Sz9LbpImn4kXbbcyIBjdmdc4WOy2MGc6/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-8056d5.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:nickshv13@gmail.com"><img src="https://img.shields.io/badge/Email-Nikolai-red.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/nshelehov" target="_blank"><img src="https://img.shields.io/badge/linkedin-nshelehov-17A192.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/n_shelehov" target="_blank"><img src="https://img.shields.io/badge/telegram-n__shelehov-5BA3F9.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://upwork.com/freelancers/~01726240f751164d57" target="_blank"><img src="https://img.shields.io/badge/work-NikolaiShelehov-brightgreen.svg?style=for-the-badge&logo=upwork&logoColor=brightgreen" ></a>
 
+# Lighty, Presets for Lightroom
+
+The project was not developed by me from scratch. Application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
+<br><br>
+<p align="center">
+<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
+</p>
+
+# Charging Play Animation
+
+The application allows you to play various animations while the phone is charging. Many customizable features such as creating your own animation, customizing the charge level, etc. The project was made entirely by me 
+
+<br><br>
+<p align="center">
+<img src="images/Charger/1.png" width="260"  title="Charging Play Animation">&nbsp;&nbsp;&nbsp;<img src="images/Charger/2.png" width="260"  title="Charging Play Animation">&nbsp;&nbsp;&nbsp;<img src="images/Charger/3.png" width="260"  title="Charging Play Animation">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Charger/4.png" width="260" title="Charging Play Animation">
+</p>
+
 # HERO: Intermittent Fasting App
 
 This project developed by me from the scratch. The app collects data about the user (weight, height, exercise intensity, typical meal times) and based on this data, it offers personal plans for gaining muscle mass / losing weight. The project includes a lot of calculations, a flexible UI and a lot of push notifications.
@@ -29,23 +46,6 @@ Was developed by me completely from the scratch.
 <br><br>
 <p align="center">
 <img src="images/Fonts/1.png" width="260"  title="Custom Fonts & Keyboard">&nbsp;&nbsp;&nbsp;<img src="images/Fonts/2.png" width="260"  title="Custom Fonts & Keyboard">&nbsp;&nbsp;&nbsp;<img src="images/Fonts/3.png" width="260"  title="Custom Fonts & Keyboard">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Fonts/4.png" width="260" title="Custom Fonts & Keyboard">&nbsp;&nbsp;&nbsp;<img src="images/Fonts/5.png" width="260"  title="Custom Fonts & Keyboard">&nbsp;&nbsp;&nbsp;<img src="images/Fonts/6.png" width="260"  title="Custom Fonts & Keyboard">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Fonts/7.png" width="260" title="Custom Fonts & Keyboard">
-</p>
-
-# Lighty, Presets for Lightroom
-
-The project was not developed by me from scratch. Application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
-<br><br>
-<p align="center">
-<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
-</p>
-
-# Charging Play Animation
-
-The application allows you to play various animations while the phone is charging. Many customizable features such as creating your own animation, customizing the charge level, etc. The project was made entirely by me 
-
-<br><br>
-<p align="center">
-<img src="images/Charger/1.png" width="260"  title="Charging Play Animation">&nbsp;&nbsp;&nbsp;<img src="images/Charger/2.png" width="260"  title="Charging Play Animation">&nbsp;&nbsp;&nbsp;<img src="images/Charger/3.png" width="260"  title="Charging Play Animation">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Charger/4.png" width="260" title="Charging Play Animation">
 </p>
 
 # Widgets Themes - Color Widgets
